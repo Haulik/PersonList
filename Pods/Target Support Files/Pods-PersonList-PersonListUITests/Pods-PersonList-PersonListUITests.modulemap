@@ -1,0 +1,6 @@
+framework module Pods_PersonList_PersonListUITests {
+  umbrella header "Pods-PersonList-PersonListUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
